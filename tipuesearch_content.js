@@ -1,0 +1,1 @@
+var tipuesearch = {"pages":[{"title":"My first post","text":"This is the first post from my Pelican blog. YAY!","tags":"misc","url":"/My-first-post.html","loc":"/My-first-post.html"}]};
