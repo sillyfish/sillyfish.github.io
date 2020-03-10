@@ -8,3 +8,4 @@ Authors: Venuica
 Summary: Just for test
 
 This is the *first post* from my Pelican blog. **YAY!**
+[TOC]
