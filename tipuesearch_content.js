@@ -1,1 +1,1 @@
-var tipuesearch = {"pages":[{"title":"My first post","text":"This is the first post from my Pelican blog. YAY! [TOC]","tags":"misc","url":"/My-first-post.html","loc":"/My-first-post.html"}]};
+var tipuesearch = {"pages":[{"title":"测试网页","text":"sdfasdfasdfasdfasdf","tags":"征文","url":"/ce-shi-wang-ye.html","loc":"/ce-shi-wang-ye.html"},{"title":"My first post","text":"Sec 1.1 The quick brown fox jumps over the lazy dog.","tags":"misc","url":"/My-first-post.html","loc":"/My-first-post.html"}]};

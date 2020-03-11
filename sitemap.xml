@@ -5,70 +5,91 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-03-10T13:46:38-00:00</lastmod>
+<lastmod>2020-03-12T00:03:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-03-10T13:46:38-00:00</lastmod>
+<lastmod>2020-03-12T00:03:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-03-10T13:46:38-00:00</lastmod>
+<lastmod>2020-03-12T00:03:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2020-03-10T13:46:38-00:00</lastmod>
+<lastmod>2020-03-12T00:03:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-03-10T13:46:38-00:00</lastmod>
+<lastmod>2020-03-12T00:03:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<loc>/ce-shi-wang-ye.html</loc>
+<lastmod>2020-03-11T13:16:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/My-first-post.html</loc>
-<lastmod>2020-03-09T19:12:00+08:00</lastmod>
+<lastmod>2020-03-11T13:13:40+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/category/misc.html</loc>
-<lastmod>2020-03-09T19:12:00+07:37</lastmod>
+<lastmod>2020-03-11T13:13:40+07:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/first.html</loc>
-<lastmod>2020-03-09T19:12:00+07:37</lastmod>
+<loc>/category/zheng-wen.html</loc>
+<lastmod>2020-03-11T13:16:00+07:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/zhong-wen.html</loc>
+<lastmod>2020-03-11T13:16:00+07:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/misc.html</loc>
-<lastmod>2020-03-09T19:12:00+07:37</lastmod>
+<lastmod>2020-03-11T13:13:40+07:37</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/author/liang-ren-bu-yi.html</loc>
+<lastmod>2020-03-11T13:16:00+07:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/venuica.html</loc>
-<lastmod>2020-03-09T19:12:00+07:37</lastmod>
+<lastmod>2020-03-11T13:13:40+07:37</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
